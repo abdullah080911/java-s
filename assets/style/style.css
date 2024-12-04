@@ -1,0 +1,28 @@
+.bottom-strip{
+    background-color: red;
+    height: 300px;
+    position: fixed;
+    bottom: 0%;
+    left: 0;
+    right: 0;
+    z-index: 1;
+    
+}
+.close-btn{
+    position: absolute;
+    top: 0%;
+    right: 0;
+    background-color: black;
+    color: white;
+    padding: 24px;
+    cursor: pointer;
+}
+.bell{
+    width: 50px;
+    height: 50px;
+    background-color: blue;
+    position: fixed;
+    right: 0%;
+    bottom: 0;
+    border-radius: 50px;
+}
